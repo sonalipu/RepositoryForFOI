@@ -192,6 +192,7 @@ public class Search extends base
 		String MonthyearValueFrom;
 		Surgeries s=new Surgeries();
 		s.FilterbyDate(driver).click();
+		//if today selected 
 		
 		driver.findElement(By.cssSelector(".available.ng-star-inserted.today.active.end-date.start-date")).click();
 		System.out.println("today date selected");
