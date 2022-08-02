@@ -8,7 +8,7 @@ public class HandleCPTCode extends base
 
 {
 	@Test
-	public void switchtotenant() throws Exception
+	public void switchtotenant() throws Exception 
 	{
 		driver=initialize();
 		driver.get(p.getProperty("url2"));
@@ -16,7 +16,7 @@ public class HandleCPTCode extends base
 		//Thread.sleep(5000);
 		SwitchTenant t=new SwitchTenant(driver);
 		t.ChangeTenant("Default");
-		//Temp chage for test fgdfg
+		//Temp chage for test fgdfgvbnvbnvbn
 		//ClientLogin c=new ClientLogin();
 		//c.RegisterdedClientLogin(driver);
 		ValidLogin vc = new ValidLogin();
