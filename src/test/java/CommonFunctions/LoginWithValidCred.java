@@ -18,8 +18,7 @@ public class LoginWithValidCred extends base {
 	@Test
 	public void testLogin() throws IOException, BiffException, InterruptedException
 	{
-		//Test for valid user
-		
+	
 		//driver=initialize();
 		FileInputStream fis=new FileInputStream("C:\\Users\\SonaliPujari\\CommonFiles\\LoginDetails1.xls");
 		//workbook>>sheets>>cells>>content
