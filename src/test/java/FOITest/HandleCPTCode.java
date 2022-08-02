@@ -16,7 +16,7 @@ public class HandleCPTCode extends base
 		//Thread.sleep(5000);
 		SwitchTenant t=new SwitchTenant(driver);
 		t.ChangeTenant("Default");
-		//Temp chage for test  sdfsdf
+		//Temp chage for test 
 		//ClientLogin c=new ClientLogin();
 		//c.RegisterdedClientLogin(driver);
 		ValidLogin vc = new ValidLogin();
