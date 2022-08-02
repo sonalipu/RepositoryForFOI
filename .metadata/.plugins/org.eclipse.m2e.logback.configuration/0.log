@@ -1,0 +1,16 @@
+2022-08-02 11:04:12,100 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-02 11:06:54,049 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: WaiTechnology:FOITest:0.0.1-SNAPSHOT @ C:\Users\SonaliPujari\Git\RepositoryForFOI\RepositoryForFOI\FOITest\pom.xml.
+2022-08-02 11:06:54,049 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: WaiTechnology:FOITest:0.0.1-SNAPSHOT @ C:\Users\SonaliPujari\Git\RepositoryForFOI\RepositoryForFOI\FOITest\pom.xml.
+2022-08-02 11:06:57,547 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 11:06:57,548 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SonaliPujari\Git\RepositoryForFOI\RepositoryForFOI\FOITest\src\main\resources
+2022-08-02 11:06:57,554 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 11:06:57,554 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SonaliPujari\Git\RepositoryForFOI\RepositoryForFOI\FOITest\src\test\resources
+2022-08-02 11:07:01,202 [Worker-30: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: WaiTechnology:FOITest:0.0.1-SNAPSHOT @ C:\Users\SonaliPujari\Git\RepositoryForFOI\RepositoryForFOI\FOITest\pom.xml.
+2022-08-02 11:07:02,374 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 11:07:02,375 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SonaliPujari\Git\RepositoryForFOI\RepositoryForFOI\FOITest\src\main\resources
+2022-08-02 11:07:02,379 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 11:07:02,380 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SonaliPujari\Git\RepositoryForFOI\RepositoryForFOI\FOITest\src\test\resources
+2022-08-02 11:07:04,525 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 11:07:04,526 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SonaliPujari\Git\RepositoryForFOI\RepositoryForFOI\FOITest\src\main\resources
+2022-08-02 11:07:04,529 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 11:07:04,530 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SonaliPujari\Git\RepositoryForFOI\RepositoryForFOI\FOITest\src\test\resources
